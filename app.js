@@ -18,7 +18,7 @@ app.delete("/api/parameter/:id", parameter_controller.api_delete_parameter);
 
 //LS9JIpc1aQ3VnDsO
 //5JbkYbID4pAt063k
-
+//
 const db_uri = "mongodb+srv://Machine_user:5JbkYbID4pAt063k@cluster0.7j81d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 
